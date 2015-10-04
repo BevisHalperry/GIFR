@@ -1,2 +1,2 @@
-# maGIFicent
-A dynamic GIF wall builder
+# GIFR
+A dynamic reddit GIF wall builder
